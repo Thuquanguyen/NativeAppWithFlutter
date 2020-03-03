@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/thunq-d1/Desktop/bloc/flutter_app_demo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/thunq-d1/Desktop/GitHub/NativeAppWithFlutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/thunq-d1/Desktop/bloc/flutter_app_demo/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/thunq-d1/Desktop/GitHub/NativeAppWithFlutter/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
